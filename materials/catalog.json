@@ -1,0 +1,74 @@
+{
+  "members": {
+    "fields": [
+      "id",
+      "entity",
+      "key",
+      "routes"
+    ],
+    "references": {}
+  },
+  "delegates": {
+    "fields": [
+      "id",
+      "service",
+      "key",
+      "member",
+      "route",
+      "grant"
+    ],
+    "references": {
+      "member": "members"
+    }
+  },
+  "endpoints": {
+    "fields": [
+      "id",
+      "url",
+      "controller",
+      "member",
+      "from_time",
+      "until_time"
+    ],
+    "references": {
+      "member": "members"
+    }
+  },
+  "lines": {
+    "fields": [
+      "id",
+      "ticket",
+      "route",
+      "member",
+      "net_cents"
+    ],
+    "references": {
+      "member": "members"
+    }
+  },
+  "endpoint_ownership": {
+    "fields": [
+      "id",
+      "endpoint",
+      "holder",
+      "key",
+      "from_time"
+    ],
+    "references": {
+      "endpoint": "endpoints"
+    }
+  },
+  "delivery": {
+    "fields": [
+      "id",
+      "endpoint",
+      "message",
+      "state",
+      "observed",
+      "received"
+    ],
+    "references": {
+      "endpoint": "endpoints"
+    }
+  }
+}

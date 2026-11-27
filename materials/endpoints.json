@@ -1,0 +1,18 @@
+[
+  {
+    "id": "END-1",
+    "url": "/member/ledger",
+    "controller": "host-a",
+    "member": "M-A",
+    "from_time": 500,
+    "until_time": 560
+  },
+  {
+    "id": "END-2",
+    "url": "/member/ledger",
+    "controller": "host-new",
+    "member": "M-B",
+    "from_time": 560,
+    "until_time": 900
+  }
+]

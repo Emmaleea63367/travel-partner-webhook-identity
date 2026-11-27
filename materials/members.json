@@ -1,0 +1,19 @@
+[
+  {
+    "id": "M-A",
+    "entity": "bus-company",
+    "key": "member-a",
+    "routes": [
+      "R-1"
+    ]
+  },
+  {
+    "id": "M-B",
+    "entity": "park-company",
+    "key": "member-b",
+    "routes": [
+      "R-1",
+      "R-2"
+    ]
+  }
+]

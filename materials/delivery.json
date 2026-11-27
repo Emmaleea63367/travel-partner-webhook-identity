@@ -1,0 +1,26 @@
+[
+  {
+    "id": "OUT-1",
+    "endpoint": "END-1",
+    "message": "msg-a",
+    "state": "submitted",
+    "observed": 549,
+    "received": 549
+  },
+  {
+    "id": "OUT-2",
+    "endpoint": "END-1",
+    "message": "msg-a",
+    "state": "pending",
+    "observed": 550,
+    "received": 551
+  },
+  {
+    "id": "OUT-3",
+    "endpoint": "END-1",
+    "message": "msg-a",
+    "state": "received",
+    "observed": 553,
+    "received": 571
+  }
+]

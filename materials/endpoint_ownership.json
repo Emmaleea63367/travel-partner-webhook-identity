@@ -1,0 +1,16 @@
+[
+  {
+    "id": "R-1",
+    "endpoint": "END-1",
+    "holder": "host-a",
+    "key": "host-a",
+    "from_time": 500
+  },
+  {
+    "id": "R-2",
+    "endpoint": "END-2",
+    "holder": "host-new",
+    "key": "host-new",
+    "from_time": 560
+  }
+]

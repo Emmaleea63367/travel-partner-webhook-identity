@@ -1,0 +1,5 @@
+"@method": POST
+"@target-uri": https://ledger.example.invalid/v1/notifications
+"content-digest": sha-256=:H4Y/FNqi9a80vtwmnGGDmaLtPqmUeV9K7ez0FlxXYW8=:
+"notification-id": msg-a
+"@signature-params": ("@method" "@target-uri" "content-digest" "notification-id");created=1795741500;keyid="member-a";alg="ed25519"

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "L-1",
+    "ticket": "bundle-21",
+    "route": "R-1",
+    "member": "M-A",
+    "net_cents": 1600
+  },
+  {
+    "id": "L-2",
+    "ticket": "bundle-21",
+    "route": "R-1",
+    "member": "M-B",
+    "net_cents": 1900
+  },
+  {
+    "id": "L-3",
+    "ticket": "bundle-22",
+    "route": "R-2",
+    "member": "M-B",
+    "net_cents": 2800
+  }
+]
