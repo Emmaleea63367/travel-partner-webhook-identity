@@ -1,0 +1,12 @@
+[
+  {
+    "keyid": "host-a",
+    "signed_bytes": "eyJhdCI6NTAxLCJiaW5kaW5nIjoiRU5ELTEiLCJub25jZSI6Im9sZC0xIiwib3BlcmF0b3IiOiJNLUEiLCJ0YXJnZXQiOiIvbWVtYmVyL2xlZGdlciJ9",
+    "signature": "qtGRmRmLJJqXYOns/B7jxYQ48VhIxkSYIO+mIgfDj2UWvYGg2G9pvWBOxujKDtn1RdgFvr4WnOZGGJYMo4XjAQ=="
+  },
+  {
+    "keyid": "host-new",
+    "signed_bytes": "eyJhdCI6NTYwLCJiaW5kaW5nIjoiRU5ELTIiLCJub25jZSI6Im5ldy05Iiwib3BlcmF0b3IiOiJNLUIiLCJ0YXJnZXQiOiIvbWVtYmVyL2xlZGdlciJ9",
+    "signature": "/0NiKt0hDzAUa9AdgmRzt7k8Skmotzi91EWXLkikM5QJKxyVun7+gwevtYMjP+HuESLoooebsCK0NvakvtqBCw=="
+  }
+]
